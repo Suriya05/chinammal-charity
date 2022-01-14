@@ -1,7 +1,6 @@
 /*-----------------------------------------------------------------------------------
 
-    Template Name: Fande - Crowdfunding & Charity HTML5 Template 
-    Author: BDevs
+    Author: Pixel Perfect
     Version: 1.0
 
 -----------------------------------------------------------------------------------
@@ -10,7 +9,7 @@
     ===================
 
     01. Theme default CSS
-	02. variables
+	  02. variables
     03. mixins
     04. common
     05. overlay
@@ -251,7 +250,7 @@ label {
 }
 
 .black-bg {
-  background: #061738;
+  background: #08133b;
 }
 
 .black-bg2 {
@@ -1882,13 +1881,13 @@ section-title
 }
 #scrollUp {
   background: #f15b43;
-  width: 50px;
-  height: 50px;
+  width: 40px;
+  height: 40px;
   position: absolute;
-  right: 50px;
-  bottom: 50px;
+  right: 15px;
+  bottom: 20px;
   border-radius: 10px;
-  line-height: 50px;
+  line-height: 40px;
   text-align: center;
 }
 #scrollUp i {
@@ -3126,7 +3125,7 @@ input.main-search-input:-ms-input-placeholder {
 }
 
 .slider-height-02 {
-  min-height: 977px;
+  min-height: 870px;
 }
 @media only screen and (min-width: 992px) and (max-width: 1200px) {
   .slider-height-02 {
@@ -3149,7 +3148,7 @@ input.main-search-input:-ms-input-placeholder {
   }
 }
 .slider-height-02::before {
-  background: url(../img/shape/06.png) no-repeat bottom;
+  /* background: url(../img/shape/06.png) no-repeat bottom; */
   width: 100%;
   min-height: 137px;
   bottom: -110px;
@@ -3327,9 +3326,9 @@ input.main-search-input:-ms-input-placeholder {
   max-width: 1230px;
   margin: 0 auto;
 }
-.services-area .services-bg {
+/* .services-area .services-bg {
   margin-top: -130px;
-}
+} */
 @media only screen and (min-width: 768px) and (max-width: 991px) {
   .services-area .services-bg {
     margin-top: 50px;
