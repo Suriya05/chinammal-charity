@@ -36,9 +36,10 @@
 /*  01. Theme default CSS
 /*----------------------------------------*/
 @import url("https://fonts.googleapis.com/css2?family=Barlow+Condensed:wght@300;400;500;600;700&amp;family=Karla:wght@300;400;500;600;700&amp;display=swap");
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;500;600;700&display=swap');
 /* 1. Theme default css */
 body {
-  font-family: "Karla", sans-serif;
+  font-family:'Poppins', 'Karla', sans-serif;
   font-size: 15px;
   line-height: 28px;
   font-weight: 400;
@@ -160,7 +161,7 @@ p {
   font-size: 15px;
   font-weight: 400;
   line-height: 28px;
-  font-family: "Karla", sans-serif;
+  font-family: "Poppins","Karla", sans-serif;
   color: #777777;
   margin-bottom: 0;
 }
@@ -294,7 +295,7 @@ label {
   font-size: 14px;
   font-weight: 700;
   line-height: 1;
-  font-family: "Karla", sans-serif;
+  font-family: "Poppins", "Karla", sans-serif;
   padding: 20px 70px 20px 44px;
   display: inline-block;
   border-radius: 30px;
@@ -2252,7 +2253,7 @@ section-title
   color: #364f75;
   font-size: 16px;
   line-height: 1;
-  font-family: "Karla", sans-serif;
+  font-family: "Poppins", "Karla", sans-serif;
   padding: 30px 0 36px 0;
   display: inline-block;
   position: relative;
@@ -3029,7 +3030,7 @@ input.main-search-input:-ms-input-placeholder {
 }
 .slider__content .mini-title {
   color: white;
-  font-family: "Karla", sans-serif;
+  font-family: "Poppins", "Karla", sans-serif;
   font-weight: 400;
   line-height: 1.5;
 }
